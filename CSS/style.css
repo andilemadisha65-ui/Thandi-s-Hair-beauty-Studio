@@ -13,6 +13,7 @@ body {
     color: #3e2b20;
     line-height: 1.7;
     padding-bottom: 30px;
+    min-height: 100vh;
 }
 
 /* Navigation bar */
@@ -69,6 +70,7 @@ main {
     max-width: 850px;
     margin: 0 auto;
     padding: 35px 20px;
+    min-height: 100vh;
 }
 
 /* Content sections */
